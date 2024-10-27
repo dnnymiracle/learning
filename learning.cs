@@ -183,13 +183,43 @@ True ideas, James suggests are like tools. they make us more efficient by helpin
 
 
 Deweys Pragmatic Theory of Truth - 1859 - 1952 - 527 page Logic: The Theory of Inquiry (1938 [2008]) 
+s only one reference to "truth" and that to a footnote mentioning Peirce. 
 
 
+"truth property of being in accord." "truth is knowledge." 
 
 
+In 1703. Gottfried Wilhelm Leibniz developed the binary number system which 
+led the way to modern computing. The binary system is a way to convert a series
+of 0's and 1's into other numbers, letters, and characters. Everything we see on screen and interact with on our 
+computers is converted into binary before the computer can process it. 
+The magic of present-day computers is that they process binary extremely quickly
+
+1801 joseph jacquard created the punch-card programmable loom. 
 
 
+FINALLY. 1837: Charles Babbage designed the groundbreaking Analytical Engine. 
+
+IT was never actually built but the design embodied modern computers. Although 
+it was never actually built, its 62+++++++++++++++++++++++++++3.0 design embodied the major characteristics of modern computers. 
+This included memory, a central processing unit, and the ability
+for input and output. Charles Babbage is commonly referred to as the "Father of Computers" for his work.
+\
+
+1843. Ada Lovelace, the daughter of Lord Byron, worked alongside Charles Babbage to design
+the analytical engine. However, shortly afterward, she developed the first-ever
+computer algorithm. She carefully considered what computers were capable of when developing her algorithm. 
+The result was a solution to Bernoulli numbers, a significant mathematical advancement. 
 
 
+Born, Augusta Ada Byron on December 10, 1815.  Daughter of George Gordon "lord byron" Ada was just a
+teenager when she met Cambridge mathematics professor Charles Babbage,
+who had invented the Difference Engine, a mechanical computer designed
+to produce error-free mathematical tables automaticall. Babbage never built the actual machine due to personal setbacks and financing difficulty. 
+
+By 1834 he had moved on to design his Analytical Engine, the first general purpose
+computer, which used punch cards for input and output
 
 
+////
+*/
